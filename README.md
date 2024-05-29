@@ -17,13 +17,13 @@ Welcome to Growz , your comprehensive solution for modern agriculture needs. Thi
 
 The login page is the gateway to accessing the Growz application. Here users can enter their credentials to log in.
 
-![Login Page](images/login_page.png)
+![Login Page](images/login_page.jpg)
 
 ## Create Account Page
 
 New users can create an account using this page. It includes fields for essential information and preferences.
 
-![Create Account Page](images/create_account_page.png)
+![Create Account Page](images/create_account_page.jpg)
 
 ## Side Navigation Bar
 
@@ -36,37 +36,37 @@ The side navigation bar provides easy access to all main features of the applica
 - Plant Disease Prediction
 - Settings
 
-![Side Navigation Bar](images/side_navigation_bar.png)
+![Side Navigation Bar](images/side_navigation_bar.jpg)
 
 ## Language Feature
 
 Growz supports multiple languages to cater to a diverse user base. Users can select their preferred language from the settings.
 
-![Language Feature](images/language_feature.png)
+![Language Feature](images/language_feature.jpg)
 
 ## Fertilizer Recommendation
 
 This feature provides customized fertilizer recommendations based on soil type, crop type, and other environmental factors.
 
-![Fertilizer Recommendation](images/fertilizer_recommendation.png)
+![Fertilizer Recommendation](images/fertilizer_recommendation.jpg)
 
 ## Location Recommendation
 
 Based on climate, soil, and water availability, this feature suggests the best locations for planting specific crops.
 
-![Location Recommendation](images/location_recommendation.png)
+![Location Recommendation](images/location_recommendation.jpg)
 
 ## Crop Yield Prediction
 
 Using advanced machine learning algorithms, this feature predicts the yield for various crops based on current and historical data.
 
-![Crop Yield Prediction](images/crop_yield_prediction.png)
+![Crop Yield Prediction](images/crop_yield_prediction.jpg)
 
 ## Plant Disease Prediction
 
 Upload images of your crops, and this feature will diagnose potential diseases and suggest treatments.
 
-![Plant Disease Prediction](images/plant_disease_prediction.png)
+![Plant Disease Prediction](images/plant_disease_prediction.jpg)
 
 ## Getting Started
 
